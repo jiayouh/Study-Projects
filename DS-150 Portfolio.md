@@ -11,9 +11,6 @@
     - What is the bisection method?
     - Explanation of Code 
     - Results of Bisection Methood
-- Personal Notes
-    - Reflection on growth
-    - Tasks that I was proud of
     
 ## Assignment 6a, Task 5 (Computing) Plot some functions
 This block of code plots 5 different polynomial functions using NumPy and Matplotlib to do so. 
